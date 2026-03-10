@@ -1,4 +1,4 @@
-### Original survey
+# Original survey
 
 ## Q1. Motivation
 To what extent do you agree with the following statement: "Looking at a mobile phone screen for navigation while walking or exercising outdoors makes me feel unsafe."
@@ -53,7 +53,7 @@ C.Neutral
 D.Likely
 E.Very Likely
 
-### Revised survey
+# Revised survey
 
 
 ## Q1. Motivation
