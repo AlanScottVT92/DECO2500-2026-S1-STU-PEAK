@@ -1,28 +1,20 @@
+## Question1
+How often do you check the map on your phone when you are walking outdoors(especially exercising or heading to an unknown place)?
 
-## Question 1
+## Question2
+Have you ever occured any problem when you are using your phone for navigation?
 
-How often do you use a mobile phone for navigation while walking or exercising outdoors?
+## Question3
+Have you ever experienced a near-accident or minor collision when you were concentrating on the screen for navigation?(If so,simply describe about it)
 
-## Question 2
+## Question4
+If there is a solution which could help navigate without using phone,on a scale of 1-5(1:no likely,5:very likely),how likely would you use it？
 
-When navigating with your phone in an unfamiliar place, what is your biggest frustration?
+## Question5
+We are now designing a wearable equipment that uses gentle viberations on your left or right foot to tell you where to turn or stop.How intuitive do you find this concept(In another word,do you think the function we are going to design will be easy for you to use)?
 
-## Question 3
+## Question6
+What would you concern about the viberation feedback from your wearable equipment?
 
- Have you ever experienced a near-accident or minor collision because you were looking at your phone's map?
-
-## Question 4
-
-If you could navigate without looking at a screen or listening to audio instructions, how interested would you be in using such a solution?
-
-## Question 5
-
-We are designing a smart shoe insert (or smart shoe) that uses gentle vibrations on your left or right foot to tell you when and where to turn. How intuitive do you find this concept?(Or whether you feel concused about the function)
-
-## Question 6
-
-What concerns, if any, would you have about using vibration feedback in your shoes for navigation? 
-
-## Question 7
-
-In which scenario would you be most likely to use this vibration-based navigation?
+## Question7
+In which condition would you use this wearable equipment for navigation?
