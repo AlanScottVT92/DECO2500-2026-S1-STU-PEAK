@@ -1,25 +1,64 @@
-## Question1
-When you are walking outdoors in Brisbane,for example,at South Bank or heading to an unfamiliar place, how would you usually like to get navigation information? 
+## Q1
+Think about the last time you were in an unfamiliar place.
+What did you do to find your way?
 
+ Prompts:
 
-## Question2
-Have you ever experienced any problems when using your phone for navigation while walking outdoors? For example, in places like busy streets in the city or walking trails like Mount Coot-tha?
+What did you do first?
+What tools or methods did you use?
+Did you rely only on your phone or anything else?
 
-## Question3
-If you used to have experience of having a near-accident or bumped into something because you were looking at your phone for navigation, could you briefly describe what happened? If not, then how do you think about the potential dangers of navigating by using a phone?
+## Q2
+Tell me about a time when navigation didn’t go smoothly. What happened?
 
-## Question4
-If there were a way to navigate without needing to look at your phone, how likely would you be to use it? (On a scale of 1 to 5,1 = very unlikely, 5 = very likely)
-(≥3)If you would choose to use it, how do you wish it could help you in navigation?
-(3<)If you wouldn’t choose to use it, what concerns do you have?
+Prompts:
 
-## Question5
-We are designing a wearable device that uses gentle vibrations on your left or right foot to guide your direction (e.g., left foot vibration = turn left).
-How intuitive do you find this idea?
-Do you think it would be easy or difficult to use while walking or running?
+What made it difficult or frustrating?
+Did you ever feel distracted or overwhelmed?
+How did you deal with the situation?
 
-## Question6
-What concerns would you have about receiving vibration feedback from this kind of wearable device? For example, when you’re walking long distances or exercising outdoors?
+## Q3
+Think about a time when you relied on some form of technology or tool to help you navigate while walking or exercising. How did using that tool affect your attention to your surroundings?
 
-## Question7
-In what situations would you use this wearable device for navigation? For example, during commuting, exercising, or exploring a new place in Brisbane?
+Prompts:
+
+Have you ever felt unsafe or distracted?
+Can you recall a specific moment?
+
+## Q4
+Think about a recent time when you were walking or exercising in an unfamiliar outdoor area.
+
+Walk me through that experience step by step.
+
+Prompts:
+
+What were you doing at the beginning?
+When did you check your phone?
+How did you feel during the process?
+
+## Q5
+Have you ever tried navigating without constantly looking at your tool?
+
+Prompts:
+
+What did you do instead?
+How did that experience feel?
+What worked well or didn’t work?
+
+## Q6
+When you are navigating, how aware are you of your body and surroundings?
+
+Prompts:
+
+Do you notice physical discomfort (e.g., holding your phone)?
+How does it affect your movement or exercise?
+
+## Q7
+Have you ever wished for a different way to receive navigation guidance?
+Can you describe what that might be like?
+
+Prompts:
+
+What would make navigation easier for you?
+Are there situations where using your phone feels limiting?
+
